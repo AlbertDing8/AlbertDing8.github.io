@@ -1,6 +1,6 @@
 # AlbertDing8.github.io
 
-The **Rouge's Life Project** was started in the summer of 2021 to create a video game without the use of a game engine.
+The **Rogue's Life Project** was started in the summer of 2021 to create a video game without the use of a game engine.
 The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
 I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
 
@@ -17,7 +17,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 
 # ***General notes about the game and future plans:***
 
-### **Game (TBD Title: Rouge's Life):**
+### **Game (TBD Title: Rogue's Life):**
 
 - 2D overhead (zelda 1 inspired (8 bit zelda, demakes))
 - Heart system (1/4 to full heart)
