@@ -43,22 +43,27 @@ I taught myself python in the spring of 2020 and took a university course in the
 - Up summon amount
 - Gain 50% life steal
 - Main attack is now "Poison Spell" (ramping damage (cost 1/2 mana) double poison stack if already poisoned)
+
 **Assassin - fast, high damage (x2 move speed, half health, x3 backstab damage)**
 - Lose additonal half health and gain increased overall damage (x2) (backstab x5)
 - Gain shadow walk (removed minion block) (to be behind enemies)
 - Main attack is now "Dash" (move forward three paces (5 second cooldown)))
+
 **Chef - chef lol (x3 damage to "ingredients", make own food i.e. new drop system)**
 - Increase food potency (x2)
 - Randomly (1%) "Saute" all enemies on screen to reduce the damage they do (-50%) (flash cut scene?)
 - Main attack is now "Supper" (trap enemies in pots, simmer in pot for dot (no cooldown lol))
+
 **Tank - large health (+5 hearts), low attack (gain passive low dot, lose main attack)**
 - Regen (1/4 heart per 30 seconds)
 - Enemies do 1/2 damage
 - Main attack is now "Stun" (stops enemies from moving and attacking for 3 seconds (10 second cooldown))
+
 **Beekeeper - constantly has 3 bees that attack what you point at, they can take damage and die, respawn after 1 min (to send bees face an enemy and attack)**
 - Increase number of bees (to 5)
 - Increase bee stats
 - Main attack is now "Free Roam" (bees will auto attack enemies)
+
 **Samurai**
 **Sun Wukong**
 
@@ -68,19 +73,23 @@ I taught myself python in the spring of 2020 and took a university course in the
 - x1/2 move speed
 - 1/2 heart damage
 - 1 and 1/2 heart health
+
 **Goblins**
 - x1 move speed
 - 1 heart damage
 - 2 heart health
+
 **Flying chickens/ harpies ("ingredient")**
 - x2 move speed
 - 1 heart damage
 - 2 and 1/2 heart health
+
 **Shark ("ingredient")**
 - Water stage only
 - x2 move speed
 - 2 heart damage
 - 3 heart health
+
 **Minatour ("ingredient")**
 - Last 2 stages
 - x1 move speed
@@ -94,18 +103,22 @@ I taught myself python in the spring of 2020 and took a university course in the
 - Swipe
 - Jab
 - Jump
+
 **Octopus ("ingredient")**
 - 75 heart health
 - Tentacles moving at random intervals (get faster as time goes on)
 - Move to different edges of the screen
+
 **Big Centipeade**
 - 50 heart health
 - Moves through ground
 - Swipe
+
 **Lynal**
 - 100 heart health
 - Bow
 - Big axe
+
 **Dragon ("ingredient")**
 - 150 heart health
 - Fire breath (undodgeable)
@@ -117,15 +130,19 @@ I taught myself python in the spring of 2020 and took a university course in the
 **Green field (Music nice and bouncy)**
 - Grass
 - Green Trees
+
 **Water (bubbly, soft)**
 - Sea Floor
 - Coral
+
 **Cave (Chill and skittering of bugs)**
 - Dirt
 - Rock Walls
+
 **Burnt Forest (Increase to climax)**
 - Dirt
 - Blackened Trees
+
 **Castle (Noble, finale)**
 - Cobble walls
 - Bricked ground
