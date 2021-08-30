@@ -13,7 +13,8 @@ I taught myself python in the spring of 2020 and took a university course in the
 > - Character movement
 > - Character attack
 > - Use potion to heal character
-> - Spawn and move monster mobs that deal damage to the character
+> - Spawn and move monster mobs that attack the character
+> - Collision damage
 
 # ***General notes about the game and future plans:***
 
