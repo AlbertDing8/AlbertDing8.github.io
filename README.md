@@ -4,7 +4,7 @@ The **Rogue's Life Project** was started in the summer of 2021 to create a video
 The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
 I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
 
-[***Video Game Showcase Video (Possibly Loud)***](https://youtu.be/ZN6SAUwrTVM)
+## [***Video Game Showcase Video (Possibly Loud)***](https://youtu.be/ZN6SAUwrTVM)
 
 > ### Currently the game is able to:
 > 
