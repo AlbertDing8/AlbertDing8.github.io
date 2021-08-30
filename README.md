@@ -65,6 +65,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 - Main attack is now "Free Roam" (bees will auto attack enemies)
 
 **Samurai**
+
 **Sun Wukong**
 
 ### **Enemies (3 versions each stronger) (base stats):**
