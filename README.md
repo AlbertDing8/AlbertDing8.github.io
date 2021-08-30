@@ -6,7 +6,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 
 ***Video Game Showcase Video***
 
-> ##### Currently the game is able to:
+> ### Currently the game is able to:
 > 
 > - Open application
 > - Close application
@@ -15,9 +15,9 @@ I taught myself python in the spring of 2020 and took a university course in the
 > - Use potion to heal character
 > - Spawn and move monster mobs that deal damage to the character
 
-### ***General notes about the game and future plans:***
+# ***General notes about the game and future plans:***
 
-##### **Game (TBD Title: Rouge's Life):**
+### **Game (TBD Title: Rouge's Life):**
 
 - 2D overhead (zelda 1 inspired (8 bit zelda, demakes))
 - Heart system (1/4 to full heart)
@@ -29,7 +29,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 
 - 1/100 Chance to hear "*suck air though teeth* ahh" when die
 
-##### **Skill Tree Roots (can upgrade up to 5 times each):**
+### **Skill Tree Roots (can upgrade up to 5 times each):**
 
 - Increased attack
 - Increased health
@@ -37,7 +37,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 - Decreased shop prices
 - Reset skill tree option
 
-##### **Classes (branches with three leaves each):**
+### **Classes (branches with three leaves each):**
 
 **Necromancer (Flaming skull) - summon up to three of what you kill (electricity main attack, gain mana system)**
 - Up summon amount
@@ -62,7 +62,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 **Samurai**
 **Sun Wukong**
 
-##### **Enemies (3 versions each stronger) (base stats):**
+### **Enemies (3 versions each stronger) (base stats):**
 
 **Slimes**
 - x1/2 move speed
@@ -87,7 +87,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 - 3 heart damage
 - 5 heart health
 
-##### **Bosses:**
+### **Bosses:**
 
 **Orc/ Big goblin**
 - 30 heart health
@@ -112,7 +112,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 - Claw swipe
 - Head pound
 
-##### **Stages (one per boss, 5 waves per stage):**
+### **Stages (one per boss, 5 waves per stage):**
 
 **Green field (Music nice and bouncy)**
 - Grass
