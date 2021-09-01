@@ -7,7 +7,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 
 ## [***Video Game Showcase Video (Possibly Loud)***](https://youtu.be/ZN6SAUwrTVM)
 
-## ***GitHub Repository***
+## [***GitHub Repository***](https://github.com/AlbertDing8/Rogue-s-Life/blob/dde4653a2ff248d30857ae8126208886d17d9985/Rogue'sLifeMain.py)
 
 > ### Currently the game is able to:
 > 
