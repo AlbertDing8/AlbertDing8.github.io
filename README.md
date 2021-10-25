@@ -1,9 +1,26 @@
 # AlbertDing8.github.io
 
+The **Wumpus World Game** is a video game created without the use of a game engine.
+The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
+All game art, code, and music was made by me within *8 hours*.
+I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
+
+## [***Video Game Showcase Video***](https://youtu.be/DptPkKZMkds)
+
+## [***GitHub Repository***](https://github.com/AlbertDing8/Wumpus_World/blob/66978668c3b97f88938f0c7184c71c69fbe8bd08/WumpusWorld.py)
+
+Based off of the AI exercise "Wumpus World".
+
+Your character is placed in a dark cave (5x5 grid). Where you can only know about the places you've visited looking for gold.
+There are three bottomless pits and a creature called a Wumpus that will kill you instantly.
+Luckly, you are able to feel the breeze (symbol in top right corner of the square) when you are adjacent to a square with a pit, and smell the wumpus (symbol in top left corner of the square) when you are adjacent to a square with the wumpus.
+
+Your charcter can move using the *arrow keys* and pick up gold/ leave the cave from original square with the *space bar*.
+_________________________________________________________________________________________________________________________________________________________________________________
+
 The **Rogue's Life Project** was started in the summer of 2021 to create a video game without the use of a game engine.
 The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
 All game assets (images, animations, music, etc.) made by me.
-I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
 
 ## [***Video Game Showcase Video (Possibly Loud)***](https://youtu.be/ZN6SAUwrTVM)
 
