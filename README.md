@@ -11,7 +11,7 @@ I taught myself python in the spring of 2020 and took a university course in the
 
 Based off of the AI exercise "Wumpus World".
 
-Your character is placed in a dark cave (5x5 grid). Where you can only know about the places you've visited looking for gold.
+Your character is placed in a dark cave (5x5 grid). Where you are looking for gold unknowing to what resides in the unvisited squares.
 There are three bottomless pits and a creature called a Wumpus that will kill you instantly.
 Luckly, you are able to feel the breeze (symbol in top right corner of the square) when you are adjacent to a square with a pit, and smell the wumpus (symbol in top left corner of the square) when you are adjacent to a square with the wumpus.
 
