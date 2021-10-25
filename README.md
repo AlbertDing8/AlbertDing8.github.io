@@ -2,7 +2,7 @@
 
 The **Wumpus World Game** is a video game created without the use of a game engine.
 The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
-All game art, code, and music was made by me within *8 hours*.
+All game art, code, and music was made by me within **8 hours**.
 I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
 
 ## [***Video Game Showcase Video (Wumpus World)***](https://youtu.be/DptPkKZMkds)
@@ -15,7 +15,7 @@ Your character is placed in a dark cave (5x5 grid). Where you are looking for go
 There are three bottomless pits and a creature called a Wumpus that will kill you instantly.
 Luckly, you are able to feel the breeze (symbol in top right corner of the square) when you are adjacent to a square with a pit, and smell the wumpus (symbol in top left corner of the square) when you are adjacent to a square with the wumpus.
 
-Your charcter can move using the *arrow keys* and pick up gold/ leave the cave from original square with the *space bar*.
+Your charcter can move using the **arrow keys** and pick up gold/ leave the cave from original square with the **space bar**.
 
 ___________________________________________________________________________________________________________________________________________________________________________
 
