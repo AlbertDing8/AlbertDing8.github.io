@@ -5,9 +5,9 @@ The game is created using Python, PyGame, Pixelorama (pixel art/ animations), an
 All game art, code, and music was made by me within *8 hours*.
 I taught myself python in the spring of 2020 and took a university course in the coding language in the autumn of 2021.
 
-## [***Video Game Showcase Video***](https://youtu.be/DptPkKZMkds)
+## [***Video Game Showcase Video (Wumpus World)***](https://youtu.be/DptPkKZMkds)
 
-## [***GitHub Repository***](https://github.com/AlbertDing8/Wumpus_World/blob/66978668c3b97f88938f0c7184c71c69fbe8bd08/WumpusWorld.py)
+## [***GitHub Repository (Wumpus World)***](https://github.com/AlbertDing8/Wumpus_World/blob/66978668c3b97f88938f0c7184c71c69fbe8bd08/WumpusWorld.py)
 
 Based off of the AI exercise "Wumpus World".
 
