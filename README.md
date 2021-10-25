@@ -17,7 +17,7 @@ Luckly, you are able to feel the breeze (symbol in top right corner of the squar
 
 Your charcter can move using the *arrow keys* and pick up gold/ leave the cave from original square with the *space bar*.
 
-***___________________________________________________________________________________________________________________________________________________________________________***
+___________________________________________________________________________________________________________________________________________________________________________
 
 The **Rogue's Life Project** was started in the summer of 2021 to create a video game without the use of a game engine.
 The game is created using Python, PyGame, Pixelorama (pixel art/ animations), and FamiTracker (8-bit music).
