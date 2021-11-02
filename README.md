@@ -24,7 +24,7 @@ The game is created using Python, PyGame, Pixelorama (pixel art/ animations), an
 All game art, code, and music was made by me within an **hour and a half**.
 
 ## [***Video Game Showcase Video (K-Means)***](https://youtu.be/-AF3hEdU_zU)
-## [***GitHub Repository (K-Means)***]
+## [***GitHub Repository (K-Means)***](https://github.com/AlbertDing8/K-Means_Visual.git)
 
 Just hit run and watch as the machine learning algorithm forms "clusters" of related data points.
 
